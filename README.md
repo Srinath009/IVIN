@@ -35,3 +35,4 @@ STEPS TO FOLLOW IN THE BEGINING :
 
 --->For further understanding go through the ppt and video, there you can understand the website much better.
 
+Project Video : https://drive.google.com/file/d/1i4vAkjDFxE0MdFkUZRIY6zfQHOHXTFnX/view
